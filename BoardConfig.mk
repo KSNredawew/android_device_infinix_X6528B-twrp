@@ -87,7 +87,7 @@ BOARD_INCLUDE_RECOVERY_RAMDISK_IN_VENDOR_BOOT := true
 TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/recovery/root/system/etc/recovery.fstab
 
 ## Inherit partitions flags
-include device/infinix/X669D/partitions.mk
+include device/infinix/X6528B/partitions.mk
 
 #flags
-include device/infinix/X669D/TW_flags.mk
+include device/infinix/X6528B/TW_flags.mk
