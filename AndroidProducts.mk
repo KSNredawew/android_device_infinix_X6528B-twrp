@@ -18,4 +18,4 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_X6528B.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_X669D-eng
+    twrp_-eng
